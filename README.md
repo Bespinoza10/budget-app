@@ -3,8 +3,7 @@ Ruby Half Capstone Project
 
 This will be a small comand-line program where the user can keep track of how much money they are spending and how much is being saved. 
 
-These are the feautures that the user will have:
-
+#Features and Details
     (1)The user will be directed to a menu page that will have 3 choices.
         1.Add a new Budget!
         2.Update a Project!
