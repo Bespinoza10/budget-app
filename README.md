@@ -17,7 +17,7 @@ This will be a small comand-line program where the user can keep track of how mu
     (6)The app subtracts the difference. The user will be able to see the results on the same page. There will be a total that shows the difference and what is left.
     (7)What is left goes into a "savings account" in the app. 
      
-<<<<<<< HEAD
+
      
 #Adding a New Budget 
         > ./budget-app
@@ -52,69 +52,67 @@ This will be a small comand-line program where the user can keep track of how mu
 
 
 #Listing Budgets
-
-> ./budget-app
-1. Add a Budget
-2. List all Budgets
-3. Exit
-> 2
-Select which one you would like to update or delete.
-1. TV Budget
-2. Car Budget
-3. Exit
+        
+        > ./budget-app
+        1. Add a Budget
+        2. List all Budgets
+        3. Exit
+        > 2
+        Select which one you would like to update or delete.
+        1. TV Budget
+        2. Car Budget
+        3. Exit
 
 
 #Listing Budgets and updating a Budget
-
-> ./budget-app
-1. Add a Budget
-2. List all Budgets
-3. Exit
-> 2
-Select which one you would like to update or delete.
-1. TV Budget
-2. Car Budget
-3. Exit
-> 1
-Would you like to update or delete?
-1. Update 
-2. Delete
-3. Exit
-> 1
-What would you like to update?
-1. Weekly income
-2. weekly expenses
-> 2
-What is your new balance?
-> 100
-Updated Successfully!
-1. Add a Budget
-2. List all Budgets
-3. Exit
+        
+        > ./budget-app
+        1. Add a Budget
+        2. List all Budgets
+        3. Exit
+        > 2
+        Select which one you would like to update or delete.
+        1. TV Budget
+        2. Car Budget
+        3. Exit
+        > 1
+        Would you like to update or delete?
+        1. Update 
+        2. Delete
+        3. Exit
+        > 1
+        What would you like to update?
+        1. Weekly income
+        2. weekly expenses
+        > 2
+        What is your new balance?
+        > 100
+        Updated Successfully!
+        1. Add a Budget
+        2. List all Budgets
+        3. Exit
 
 
 
 #Listing Budgets and deleting selected Budget
 
-> ./budget-app
-1. Add a Budget
-2. List all Budgets
-3. Exit
-> 2
-Select which one you would like to update or delete.
-1. TV Budget
-2. Car Budget
-3. Exit
-> 1
-Would you like to update or delete?
-1. Update 
-2. Delete
-3. Exit
-> 2
-Are you sure you want DELETE your Budget?
-1. Yes
-2. No
-> 1
-Deleted Successfully       
-=======
->>>>>>> 87b1a49a1dd9a527eae0d29ca1726c02294b1fc2
+        > ./budget-app
+        1. Add a Budget
+        2. List all Budgets
+        3. Exit
+        > 2
+        Select which one you would like to update or delete.
+        1. TV Budget
+        2. Car Budget
+        3. Exit
+        > 1
+        Would you like to update or delete?
+        1. Update 
+        2. Delete
+        3. Exit
+        > 2
+        Are you sure you want DELETE your Budget?
+        1. Yes
+        2. No
+        > 1
+        Deleted Successfully       
