@@ -17,6 +17,7 @@ This will be a small comand-line program where the user can keep track of how mu
     (6)The app subtracts the difference. The user will be able to see the results on the same page. There will be a total that shows the difference and what is left.
     (7)What is left goes into a "savings account" in the app. 
      
+<<<<<<< HEAD
      
 #Adding a New Budget 
         > ./budget-app
@@ -115,3 +116,5 @@ Are you sure you want DELETE your Budget?
 2. No
 > 1
 Deleted Successfully       
+=======
+>>>>>>> 87b1a49a1dd9a527eae0d29ca1726c02294b1fc2
